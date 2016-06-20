@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConnectionBLE</string>
+    <string name="ble_not_supported">您的手机不支持蓝牙4.0</string>
+    <string name="error_bluetooth_not_supported">蓝牙不支持</string>
+</resources>
