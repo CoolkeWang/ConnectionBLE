@@ -315,7 +315,7 @@ public void writeValue(String strValue) {
 }
 ```
 
-源码地址:https://github.com/CoolkeWang/ConnectionBLE
-博客地址:http://blog.csdn.net/q531934288/article/details/51724238
-本文参考:http://www.jianshu.com/p/bc408af3dd92
-如有侵权问题请联系作者,及时删改
+源码地址:https://github.com/CoolkeWang/ConnectionBLE<br/>
+博客地址:http://blog.csdn.net/q531934288/article/details/51724238<br/>
+本文参考:http://www.jianshu.com/p/bc408af3dd92<br/>
+如有侵权问题请联系作者,及时删改<br/>
