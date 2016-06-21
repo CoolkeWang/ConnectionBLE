@@ -127,7 +127,7 @@ public class BluetoothLeService extends Service {
         public void onServicesDiscovered(BluetoothGatt gatt, int status) {
             if (status == BluetoothGatt.GATT_SUCCESS) {
                 KLog.d("onServicesDiscovered received: " + status);
-                //
+                //查找服务
                 findService(gatt.getServices());
             } else {
                 if (mBluetoothGatt.getDevice().getUuids() == null) {
