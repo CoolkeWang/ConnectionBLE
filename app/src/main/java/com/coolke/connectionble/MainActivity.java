@@ -171,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
                         public void run() {
                             int i;
                             for (i = 0; i < deviceList.size(); i++) {
-                                if (-1 != deviceList.get(i).get("").indexOf(device.getAddress())) {
+                                if (-1 != deviceList.get(i).get(BLUETOOTH_ADDR).indexOf(device.getAddress())) {
                                     break;
                                 }
                             }
